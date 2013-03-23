@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/8/trunk/Lab2AppBio
+END
+simple1.fa
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8/trunk/Lab2AppBio/simple1.fa
+END
+simple2.fa
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8/trunk/Lab2AppBio/simple2.fa
+END
+genomeTE.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8/trunk/Lab2AppBio/genomeTE.fasta
+END
+genomeLP.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8/trunk/Lab2AppBio/genomeLP.fasta
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/8/trunk/Lab2AppBio/.project
+END
+genomeHI.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8/trunk/Lab2AppBio/genomeHI.fasta
+END
+genomeCP.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8/trunk/Lab2AppBio/genomeCP.fasta
+END
+genomeBS.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8/trunk/Lab2AppBio/genomeBS.fasta
+END
+.pydevproject
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8/trunk/Lab2AppBio/.pydevproject
+END

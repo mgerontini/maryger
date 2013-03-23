@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/54/trunk/code
+END
+MakeFeaturePic.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/18/trunk/code/MakeFeaturePic.m
+END
+DisplayDetections.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/54/trunk/code/DisplayDetections.m
+END
+test_VecFeature.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/13/trunk/code/test_VecFeature.m
+END
+VecFeature.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/14/trunk/code/VecFeature.m
+END
+ScanImageOverScale.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/52/trunk/code/ScanImageOverScale.m
+END
+ComputeSaveFData.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/16/trunk/code/ComputeSaveFData.m
+END
+EnumAllFeatures.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/9/trunk/code/EnumAllFeatures.m
+END
+ScanImageFixedSize.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/54/trunk/code/ScanImageFixedSize.m
+END
+VecAllFeatures.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/16/trunk/code/VecAllFeatures.m
+END
+LoadIm.m
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/48/trunk/code/LoadIm.m
+END
+Program20to23Tester.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/52/trunk/code/Program20to23Tester.m
+END
+ComputeBoxSum.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/13/trunk/code/ComputeBoxSum.m
+END
+VecBoxSum.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/13/trunk/code/VecBoxSum.m
+END
+FaceData.mat
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/38/trunk/code/FaceData.mat
+END
+Program1Tester.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/9/trunk/code/Program1Tester.m
+END
+FeatureTypeII.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8/trunk/code/FeatureTypeII.m
+END
+ApplyDetector.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/49/trunk/code/ApplyDetector.m
+END
+DebugPoint1.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/12/trunk/code/DebugPoint1.m
+END
+Program16to18Tester.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/26/trunk/code/Program16to18Tester.m
+END
+DebugPoint2.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8/trunk/code/DebugPoint2.m
+END
+Program16to19Tester.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/53/trunk/code/Program16to19Tester.m
+END
+DebugPoint3.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/15/trunk/code/DebugPoint3.m
+END
+DebugPoint4.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/26/trunk/code/DebugPoint4.m
+END
+DebugPoint5.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/17/trunk/code/DebugPoint5.m
+END
+FastBoostingAlg.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/52/trunk/code/FastBoostingAlg.m
+END
+VecComputeFeature.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/code/VecComputeFeature.m
+END
+DebugPoint6.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/33/trunk/code/DebugPoint6.m
+END
+DebugPoint7.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/52/trunk/code/DebugPoint7.m
+END
+ComputeFeature.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/13/trunk/code/ComputeFeature.m
+END
+FeatureTypeIII.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/9/trunk/code/FeatureTypeIII.m
+END
+NonFaceData.mat
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/38/trunk/code/NonFaceData.mat
+END
+FeatureTypeIV.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/9/trunk/code/FeatureTypeIV.m
+END
+LoadImFromImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/44/trunk/code/LoadImFromImage.m
+END
+Training.mat
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/28/trunk/code/Training.mat
+END
+GetTrainingData.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/17/trunk/code/GetTrainingData.m
+END
+FeatureTypeI.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/8/trunk/code/FeatureTypeI.m
+END
+BoostingAlg.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/37/trunk/code/BoostingAlg.m
+END
+FeaturesToMat.mat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/38/trunk/code/FeaturesToMat.mat
+END
+TestBoostingAlg.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/22/trunk/code/TestBoostingAlg.m
+END
+test_VecBoxSum.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/13/trunk/code/test_VecBoxSum.m
+END
+Cparams.mat
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/52/trunk/code/Cparams.mat
+END
+PruneDetections.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/52/trunk/code/PruneDetections.m
+END
+LearnWeakClassifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/52/trunk/code/LearnWeakClassifier.m
+END
+LoadSaveImData.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/16/trunk/code/LoadSaveImData.m
+END
+MakeClassifierPic.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/43/trunk/code/MakeClassifierPic.m
+END
+ComputeROC.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/36/trunk/code/ComputeROC.m
+END
+FeaturesToUse.mat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/38/trunk/code/FeaturesToUse.mat
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/7/trunk/Lab1AppBio
+END
+gpcr.tab
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/Lab1AppBio/gpcr.tab
+END
+sample1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/Lab1AppBio/sample1.txt
+END
+sample2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/Lab1AppBio/sample2.txt
+END
+shortseqs.sthlm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7/trunk/Lab1AppBio/shortseqs.sthlm
+END
+longseqs.sthlm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/Lab1AppBio/longseqs.sthlm
+END
+sample3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/6/trunk/Lab1AppBio/sample3.txt
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/Lab1AppBio/.project
+END
+PF00041.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5/trunk/Lab1AppBio/PF00041.txt
+END
+cornercase.sthlm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7/trunk/Lab1AppBio/cornercase.sthlm
+END
+.pydevproject
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/Lab1AppBio/.pydevproject
+END
+an_exon.fa
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7/trunk/Lab1AppBio/an_exon.fa
+END
+translationtest.dna.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7/trunk/Lab1AppBio/translationtest.dna.txt
+END
