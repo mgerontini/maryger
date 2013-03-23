@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/145/trunk/SentimentAnalysis/src/sentimentanalysis/database
+END
+Connector.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/40/trunk/SentimentAnalysis/src/sentimentanalysis/database/Connector.java
+END
+Operator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/145/trunk/SentimentAnalysis/src/sentimentanalysis/database/Operator.java
+END
+OperatorInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/100/trunk/SentimentAnalysis/src/sentimentanalysis/database/OperatorInterface.java
+END
+TesterDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/74/trunk/SentimentAnalysis/src/sentimentanalysis/database/TesterDB.java
+END
+SearchTweetsTesterDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/74/trunk/SentimentAnalysis/src/sentimentanalysis/database/SearchTweetsTesterDB.java
+END

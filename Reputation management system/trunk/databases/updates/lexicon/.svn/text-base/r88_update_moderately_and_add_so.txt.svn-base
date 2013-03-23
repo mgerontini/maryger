@@ -1,0 +1,11 @@
+UPDATE  `modifiers` SET  `value` =  '0,5' WHERE  `modifiers`.`id` =169 LIMIT 1
+
+
+INSERT INTO  `lexicondb`.`modifiers` (
+`id` ,
+`modifier` ,
+`value`
+)
+VALUES (
+NULL ,  'so',  '2'
+);

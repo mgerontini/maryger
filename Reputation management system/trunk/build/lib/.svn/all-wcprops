@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/140/trunk/build/lib
+END
+lucene-core-2.9.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/140/trunk/build/lib/lucene-core-2.9.0.jar
+END
+weka.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/140/trunk/build/lib/weka.jar
+END
+twitter4j-core-2.2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/140/trunk/build/lib/twitter4j-core-2.2.5.jar
+END
+mysql-connector-java-5.0.8-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/140/trunk/build/lib/mysql-connector-java-5.0.8-bin.jar
+END
+google-api-spelling-java-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/140/trunk/build/lib/google-api-spelling-java-1.1.jar
+END
+appframework-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/140/trunk/build/lib/appframework-1.0.3.jar
+END
+swing-worker-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/140/trunk/build/lib/swing-worker-1.1.jar
+END
+wikiApiClient.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/140/trunk/build/lib/wikiApiClient.jar
+END
+javacsv.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/140/trunk/build/lib/javacsv.jar
+END
+lucene-analyzers-3.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/140/trunk/build/lib/lucene-analyzers-3.0.2.jar
+END
+charts4j-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/140/trunk/build/lib/charts4j-1.3.jar
+END
+knicker-2.2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/140/trunk/build/lib/knicker-2.2.0.jar
+END

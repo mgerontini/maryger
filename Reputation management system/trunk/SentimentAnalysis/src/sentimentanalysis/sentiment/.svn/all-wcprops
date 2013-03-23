@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/123/trunk/SentimentAnalysis/src/sentimentanalysis/sentiment
+END
+Lexicon.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/43/trunk/SentimentAnalysis/src/sentimentanalysis/sentiment/Lexicon.java
+END
+Analysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/123/trunk/SentimentAnalysis/src/sentimentanalysis/sentiment/Analysis.java
+END
+Thesaurus.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/36/trunk/SentimentAnalysis/src/sentimentanalysis/sentiment/Thesaurus.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/123/trunk/SentimentAnalysis/src/sentimentanalysis/sentiment/Tokenizer.java
+END

@@ -1,0 +1,407 @@
+@relation 'testData-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"'
+
+@attribute Class {'',neutral,negative,positive}
+@attribute - numeric
+@attribute //twitpic numeric
+@attribute '50\%' numeric
+@attribute @Kenichan numeric
+@attribute @Kwesidei numeric
+@attribute @LOLTrish numeric
+@attribute @LettyA numeric
+@attribute @Tatiana_K numeric
+@attribute @caregiving numeric
+@attribute @iamjazzyfizzle numeric
+@attribute @iamlilnicki numeric
+@attribute @nationwideclass numeric
+@attribute @octolinz16 numeric
+@attribute @smarrison numeric
+@attribute @switchfoot numeric
+@attribute @twittera numeric
+@attribute And numeric
+@attribute Awww numeric
+@attribute Blah numeric
+@attribute Carr numeric
+@attribute D numeric
+@attribute David numeric
+@attribute Day numeric
+@attribute Facebook numeric
+@attribute Hollis numeric
+@attribute I numeric
+@attribute It numeric
+@attribute LOL numeric
+@attribute Managed numeric
+@attribute Need numeric
+@attribute Rains numeric
+@attribute School numeric
+@attribute The numeric
+@attribute Third numeric
+@attribute UA numeric
+@attribute Yes numeric
+@attribute You numeric
+@attribute a numeric
+@attribute about numeric
+@attribute ahh numeric
+@attribute all numeric
+@attribute also numeric
+@attribute always numeric
+@attribute am numeric
+@attribute and numeric
+@attribute anymore numeric
+@attribute as numeric
+@attribute at numeric
+@attribute ball numeric
+@attribute bear numeric
+@attribute because numeric
+@attribute been numeric
+@attribute behaving numeric
+@attribute bit numeric
+@attribute body numeric
+@attribute bounds numeric
+@attribute break numeric
+@attribute bummer numeric
+@attribute but numeric
+@attribute by numeric
+@attribute can numeric
+@attribute city numeric
+@attribute com/2y1zl numeric
+@attribute couldn numeric
+@attribute counts numeric
+@attribute crew numeric
+@attribute cry numeric
+@attribute cut numeric
+@attribute death numeric
+@attribute did numeric
+@attribute didn numeric
+@attribute directors numeric
+@attribute dived numeric
+@attribute do numeric
+@attribute doucheclown numeric
+@attribute ears numeric
+@attribute either numeric
+@attribute embarrassing numeric
+@attribute feels numeric
+@attribute file numeric
+@attribute film numeric
+@attribute fine numeric
+@attribute fire numeric
+@attribute first numeric
+@attribute for numeric
+@attribute go numeric
+@attribute got numeric
+@attribute gun numeric
+@attribute have numeric
+@attribute he numeric
+@attribute here numeric
+@attribute hey numeric
+@attribute his numeric
+@attribute how numeric
+@attribute http numeric
+@attribute hug numeric
+@attribute hurt numeric
+@attribute i numeric
+@attribute idk numeric
+@attribute in numeric
+@attribute is numeric
+@attribute it numeric
+@attribute itchy numeric
+@attribute its numeric
+@attribute ive numeric
+@attribute just numeric
+@attribute like numeric
+@attribute long numeric
+@attribute loss numeric
+@attribute love numeric
+@attribute m numeric
+@attribute mad numeric
+@attribute many numeric
+@attribute me numeric
+@attribute might numeric
+@attribute miss numeric
+@attribute muera numeric
+@attribute my numeric
+@attribute never numeric
+@attribute no numeric
+@attribute nope numeric
+@attribute not numeric
+@attribute now numeric
+@attribute of numeric
+@attribute on numeric
+@attribute only numeric
+@attribute out numeric
+@attribute over numeric
+@attribute plain numeric
+@attribute premiere numeric
+@attribute que numeric
+@attribute re-pierced numeric
+@attribute really numeric
+@attribute rent numeric
+@attribute rest numeric
+@attribute result numeric
+@attribute s numeric
+@attribute save numeric
+@attribute scene numeric
+@attribute see numeric
+@attribute severely numeric
+@attribute shoulda numeric
+@attribute snowing numeric
+@attribute snyder numeric
+@attribute soundtrack numeric
+@attribute spring numeric
+@attribute t numeric
+@attribute talk numeric
+@attribute taxes numeric
+@attribute texting numeric
+@attribute thanks numeric
+@attribute that numeric
+@attribute the numeric
+@attribute there numeric
+@attribute they numeric
+@attribute though numeric
+@attribute thought numeric
+@attribute time numeric
+@attribute times numeric
+@attribute to numeric
+@attribute today numeric
+@attribute update numeric
+@attribute upset numeric
+@attribute ve numeric
+@attribute wanted numeric
+@attribute was numeric
+@attribute watch numeric
+@attribute whole numeric
+@attribute why numeric
+@attribute will numeric
+@attribute wish numeric
+@attribute with numeric
+@attribute would numeric
+@attribute wry numeric
+@attribute you numeric
+@attribute zac numeric
+@attribute #bigrun numeric
+@attribute #charitytuesday numeric
+@attribute #haveyouever numeric
+@attribute #music numeric
+@attribute &quot numeric
+@attribute -- numeric
+@attribute //blip numeric
+@attribute //tinyurl numeric
+@attribute 38th numeric
+@attribute @Cliff_Forster numeric
+@attribute @LaTati numeric
+@attribute @La_r_a numeric
+@attribute @MayorDorisWolfe numeric
+@attribute @Ms_Hip_Hop numeric
+@attribute @Roy_Everitt numeric
+@attribute @SCOOBY_GRITBOYS numeric
+@attribute @SparksCharity numeric
+@attribute @SpeakingUpH4H numeric
+@attribute @myheartandmind numeric
+@attribute @oxhot numeric
+@attribute @rmedina numeric
+@attribute @shebbs123 numeric
+@attribute @tarayqueen numeric
+@attribute @theNSPCC numeric
+@attribute @thrillmesoon numeric
+@attribute Amaru numeric
+@attribute Another numeric
+@attribute Are numeric
+@attribute Ask numeric
+@attribute Birthday numeric
+@attribute Commenting numeric
+@attribute Contest numeric
+@attribute Disease&quot numeric
+@attribute EVERYWHERE numeric
+@attribute FrOm numeric
+@attribute Happy numeric
+@attribute Having numeric
+@attribute Hope numeric
+@attribute In numeric
+@attribute Just numeric
+@attribute Kidding numeric
+@attribute LSD numeric
+@attribute Lead numeric
+@attribute Makeover numeric
+@attribute Mmmm numeric
+@attribute MoJo numeric
+@attribute NEVEER numeric
+@attribute ReCoVeRiNg numeric
+@attribute Shakur numeric
+@attribute Singer numeric
+@attribute Sunday numeric
+@attribute ThE numeric
+@attribute That numeric
+@attribute Thats numeric
+@attribute TheWDB numeric
+@attribute Tupac numeric
+@attribute Ugh numeric
+@attribute Very numeric
+@attribute WOOOOO numeric
+@attribute Walt numeric
+@attribute We numeric
+@attribute Wendy numeric
+@attribute Xbox numeric
+@attribute YOU numeric
+@attribute Yay numeric
+@attribute Yeah numeric
+@attribute [ numeric
+@attribute absolutely numeric
+@attribute ads numeric
+@attribute advice&quot numeric
+@attribute ael numeric
+@attribute alll numeric
+@attribute babe numeric
+@attribute back numeric
+@attribute band numeric
+@attribute bed numeric
+@attribute before numeric
+@attribute best numeric
+@attribute better numeric
+@attribute beware numeric
+@attribute blog numeric
+@attribute boo numeric
+@attribute both numeric
+@attribute brains numeric
+@attribute co numeric
+@attribute coffee numeric
+@attribute com numeric
+@attribute com/m6j2an numeric
+@attribute com/n65xjt numeric
+@attribute cool numeric
+@attribute d numeric
+@attribute details numeric
+@attribute dishing numeric
+@attribute does numeric
+@attribute doing numeric
+@attribute drinking numeric
+@attribute each numeric
+@attribute end numeric
+@attribute ever numeric
+@attribute facebook numeric
+@attribute falling numeric
+@attribute favourite numeric
+@attribute feeling numeric
+@attribute figured numeric
+@attribute fm/~8bmta numeric
+@attribute full numeric
+@attribute garden numeric
+@attribute get numeric
+@attribute girl numeric
+@attribute glad numeric
+@attribute good numeric
+@attribute gotta numeric
+@attribute groups numeric
+@attribute ha- numeric
+@attribute happy numeric
+@attribute has numeric
+@attribute having numeric
+@attribute hear numeric
+@attribute heard numeric
+@attribute holce numeric
+@attribute if numeric
+@attribute im numeric
+@attribute important numeric
+@attribute interviews numeric
+@attribute issue numeric
+@attribute jen numeric
+@attribute jo numeric
+@attribute job numeric
+@attribute keep numeric
+@attribute know numeric
+@attribute lOnG numeric
+@attribute lay numeric
+@attribute lead numeric
+@attribute looks numeric
+@attribute mean numeric
+@attribute most numeric
+@attribute much numeric
+@attribute nemuselo numeric
+@attribute nic numeric
+@attribute old numeric
+@attribute other numeric
+@attribute our numeric
+@attribute pain numeric
+@attribute perfect numeric
+@attribute prey numeric
+@attribute re numeric
+@attribute ready numeric
+@attribute right numeric
+@attribute schedule numeric
+@attribute school numeric
+@attribute second numeric
+@attribute seemed numeric
+@attribute set numeric
+@attribute singer numeric
+@attribute sounds numeric
+@attribute start numeric
+@attribute status numeric
+@attribute tag numeric
+@attribute talking numeric
+@attribute te numeric
+@attribute than numeric
+@attribute theri numeric
+@attribute think numeric
+@attribute throw numeric
+@attribute tomorrow numeric
+@attribute too numeric
+@attribute trending numeric
+@attribute tweets numeric
+@attribute until numeric
+@attribute up numeric
+@attribute updates numeric
+@attribute ur numeric
+@attribute wEeKeNd numeric
+@attribute waiting numeric
+@attribute wanna numeric
+@attribute we numeric
+@attribute well numeric
+@attribute what numeric
+@attribute woke numeric
+@attribute won numeric
+@attribute wonder numeric
+@attribute work numeric
+@attribute your numeric
+@attribute zrovna numeric
+
+@data
+{0 negative,1 1,2 1,15 1,18 1,20 1,21 1,22 1,23 1,34 1,37 1,38 1,58 1,63 1,74 1,87 1,95 1,102 1,124 1,137 1,142 1,152 1,160 1}
+{0 negative,19 1,24 1,32 1,38 1,42 1,45 1,47 1,60 1,61 1,67 1,90 1,93 1,101 1,102 1,115 1,136 1,147 1,150 1,152 1,161 1,162 1,163 1}
+{0 negative,3 1,4 1,26 1,29 1,33 1,49 1,56 1,73 1,85 1,86 1,113 1,124 1,127 1,135 1,138 1,153 1,159 1,160 1}
+{0 negative,45 1,55 1,79 1,83 1,103 1,104 1,107 1,118 1,125 1,168 1}
+{0 negative,12 1,26 1,41 1,44 1,48 1,51 1,53 1,61 1,91 1,98 1,102 1,111 1,112 1,120 1,122 1,128 1,137 1,140 1,147 1,154 1,169 1,175 1}
+{0 negative,5 1,66 1,122 1,153 1,168 1}
+{0 negative,30 1,38 1,96 1}
+{0 negative,6 1,26 1,28 1,31 1,36 1,38 1,54 1,82 1,92 1,94 1,108 1,111 1,120 1,126 1,137 1,140 1,151 1,158 1,175 1}
+{0 negative,8 1,71 1,89 1,102 1,121 1,147 1,155 1}
+{0 negative,16 1,114 1,117 1,131 1}
+{0 negative,57 1,62 1,100 1,102 1,129 1,137 1,143 1,146 1}
+{0 negative,26 1,76 1,106 1,118 1,132 1}
+{0 negative,9 1,17 1,26 1,35 1,50 1,64 1,78 1,102 1,109 1,147 1,153 1,157 1,160 1,166 1,167 1}
+{0 negative,13 1,26 1,27 1,46 1,65 1,70 1,77 1,99 1,102 1,114 1,119 1,148 1,160 1,169 1,175 1}
+{0 negative,14 1,38 1,52 1,59 1,71 1,75 1,84 1,88 1,89 1,98 1,106 1,122 1,133 1,137 1,144 1,147 1,153 1,156 1,164 1,173 1,176 1}
+{0 negative,10 1,11 1,26 1,45 1,87 1,94 1,102 1,116 1,130 1,153 1,160 1,166 1,167 1,171 1,172 1,175 1}
+{0 negative,25 1,68 1,69 1,72 1,81 1,97 1,101 1,114 1,122 1,123 1,125 1,127 1,139 1,141 1,160 1,167 1,170 1,174 1}
+{0 negative,39 1,80 1,149 1,160 1}
+{0 negative,7 1,40 1,43 1,105 1,110 1,134 1,140 1,145 1,153 1,160 1,165 1}
+{0 positive,1 1,118 1,127 1,153 1,181 1,189 1,230 1,246 1,269 1,285 1}
+{0 positive,98 1,152 1,198 1,327 1}
+{0 positive,153 1,215 1,283 1}
+{0 positive,60 1,195 1,247 1,261 1,296 1,302 1,303 1,314 1,315 1,336 1,360 1}
+{0 positive,95 1,184 1,203 1,207 1,208 1,241 1,243 1,264 1}
+{0 positive,38 1,45 1,94 1,98 1,107 1,118 1,127 1,140 1,153 1,160 1,166 1,201 1,276 1,280 1,289 1,319 1,328 1,329 1,333 1,344 1,346 1,347 1}
+{0 positive,26 1,39 1,45 1,196 1,240 1,262 1,272 1,278 1,299 1,301 1,306 1,311 1,312 1,318 1,335 1,338 1,341 1,354 1}
+{0 positive,37 1,38 1,45 1,84 1,91 1,102 1,118 1,137 1,182 1,214 1,217 1,237 1,238 1,249 1,260 1,285 1,292 1,293 1,295 1,310 1,322 1}
+{0 positive,38 1,95 1,100 1,153 1,160 1,179 1,180 1,181 1,184 1,209 1,218 1,219 1,226 1,251 1,256 1,265 1,277 1,297 1,309 1,321 1,330 1,348 1}
+{0 positive,118 1,125 1,199 1,245 1,257 1,313 1,342 1}
+{0 positive,26 1,125 1,152 1,170 1,172 1,175 1,188 1,223 1,259 1,273 1,284 1,317 1,339 1,353 1}
+{0 positive,1 1,26 1,102 1,137 1,152 1,177 1,191 1,210 1,253 1,284 1,287 1,288 1,290 1,304 1,324 1,332 1,334 1,340 1,343 1,351 1,352 1}
+{0 positive,190 1,271 1,286 1,298 1,348 1,353 1}
+{0 positive,101 1,235 1,239 1,250 1}
+{0 positive,26 1,59 1,89 1,100 1,101 1,118 1,147 1,158 1,160 1,187 1,197 1,221 1,227 1,229 1,233 1,244 1,252 1,282 1,308 1,320 1,325 1,331 1,345 1,356 1}
+{0 positive,211 1,224 1,228 1,307 1,349 1}
+{0 positive,192 1}
+{0 positive,26 1,38 1,85 1,89 1,102 1,106 1,152 1,153 1,158 1,160 1,186 1,215 1,242 1,255 1,257 1,270 1,274 1,287 1,297 1,305 1,337 1,346 1,350 1,357 1,358 1}
+{0 positive,101 1,120 1,153 1,213 1,216 1,254 1,275 1,279 1,326 1,346 1,355 1}
+{0 positive,1 1,95 1,160 1,183 1,231 1,234 1,236 1,263 1,266 1,267 1,281 1,294 1,300 1,316 1}
+{0 neutral,85 1,114 1,175 1,204 1,205 1,220 1,222 1,268 1,323 1,359 1}
+{0 positive,118 1,124 1,158 1,160 1,185 1,202 1,206 1,212 1,225 1,232 1,248 1,258 1}
+{0 positive,178 1,193 1,194 1,200 1,291 1}

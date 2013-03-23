@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/144/trunk/databases
+END
+sentimentdb_backup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/33/trunk/databases/sentimentdb_backup.sql
+END
+lexicondb_backup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/33/trunk/databases/lexicondb_backup.sql
+END

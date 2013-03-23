@@ -1,0 +1,17 @@
+\title{Reputation Management System}   % type title between braces
+
+
+\author{Mihai Damaschin \\ damamihai@gmail.com
+\and Matthijs Dorst \\ matthijsdorst@gmail.com
+\and Maria Gerontini \\ mgerontini@gmail.com
+\and    Cihat Imamoglu \\  cihat.imamoglu@gmail.com
+\and     Caroline Queva \\ queva.caroline@gmail.com} 
+
+\date{\today}
+\maketitle
+
+\begin{abstract}
+Sentiment analysis on Twitter data has recently become popular. We therefore introduce a novel approach for real-time, target-dependent Twitter sentiment classification, based on user generated queries. Tweets were classified as positive, negative or neutral based on the users' choices, and the impact of these sentiments was  measured using a pagerank algorithm.
+
+ Current state-of-the-art approaches for this problem only analyse the tweet to be classified with common machine learning algorithms, ignoring the target context. This paper proposes techniques that improve the sentiment analysis of the tweets by using a specific lexicon, taking into account the distance between target and tweet content, using a naive Bayes Classifier and by measuring the impact of individual sentiments through a pagerank algorithm.
+\end{abstract}

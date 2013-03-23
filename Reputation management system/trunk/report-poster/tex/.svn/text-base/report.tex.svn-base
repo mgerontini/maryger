@@ -1,0 +1,20 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{graphicx}
+\usepackage{cite}
+\usepackage{wrapfig}
+\usepackage{booktabs}
+\usepackage[top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm]{geometry}
+
+
+\begin{document}
+
+\include{frontpage}
+\include{Introduction}
+\include{Methods}
+\include{Results}
+\include{Conclusions}
+\bibliography{mybib}{}
+\bibliographystyle{plain}
+
+
+\end{document}

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/189/trunk/SentimentAnalysis
+END
+nBayes.model
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/71/trunk/SentimentAnalysis/nBayes.model
+END
+naiveClassifier.mod
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/58/trunk/SentimentAnalysis/naiveClassifier.mod
+END
+neg.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/81/trunk/SentimentAnalysis/neg.txt
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/trunk/SentimentAnalysis/manifest.mf
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/trunk/SentimentAnalysis/build.xml
+END

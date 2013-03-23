@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/50/trunk/SentimentAnalysis/test/output
+END
+ThesaurusTest.getRelated.result
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/36/trunk/SentimentAnalysis/test/output/ThesaurusTest.getRelated.result
+END
+SoapTweetTest.Tweet
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/50/trunk/SentimentAnalysis/test/output/SoapTweetTest.Tweet
+END

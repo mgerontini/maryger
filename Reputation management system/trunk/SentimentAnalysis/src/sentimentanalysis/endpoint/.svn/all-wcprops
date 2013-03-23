@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/54/trunk/SentimentAnalysis/src/sentimentanalysis/endpoint
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/54/trunk/SentimentAnalysis/src/sentimentanalysis/endpoint/Server.java
+END
+Implementor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/50/trunk/SentimentAnalysis/src/sentimentanalysis/endpoint/Implementor.java
+END
+SoapTweet.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/50/trunk/SentimentAnalysis/src/sentimentanalysis/endpoint/SoapTweet.java
+END

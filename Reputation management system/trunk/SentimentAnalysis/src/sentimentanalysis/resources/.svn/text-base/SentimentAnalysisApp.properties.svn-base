@@ -1,0 +1,11 @@
+# Application global resources
+
+Application.name = SentimentAnalysis
+Application.title = Sentiment Analysis
+Application.version = 1.0
+Application.vendor = KTH Students
+Application.homepage = http://code.google.com/p/twitter-sentiments/
+Application.description = Perform sentiment analysis on twitter data.
+Application.vendorId = KTH
+Application.id = SentimentAnalysis
+Application.lookAndFeel = system

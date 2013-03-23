@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/114/trunk/databases/updates/lexicon
+END
+r88_update_moderately_and_add_so.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/92/trunk/databases/updates/lexicon/r88_update_moderately_and_add_so.sql
+END
+r88_update_moderately_and_add_so.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/89/trunk/databases/updates/lexicon/r88_update_moderately_and_add_so.txt
+END
+r36_smileys_update_lexicon_db.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/64/trunk/databases/updates/lexicon/r36_smileys_update_lexicon_db.sql
+END
+r35_add_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/38/trunk/databases/updates/lexicon/r35_add_data.sql
+END
+r37_negations_update_lexicon_db.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/68/trunk/databases/updates/lexicon/r37_negations_update_lexicon_db.sql
+END
+r34_add_primary_key.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/34/trunk/databases/updates/lexicon/r34_add_primary_key.sql
+END
+r83_add_modifiers_table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/84/trunk/databases/updates/lexicon/r83_add_modifiers_table.sql
+END
+r113_add_smileys_into_lexicon.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/114/trunk/databases/updates/lexicon/r113_add_smileys_into_lexicon.txt
+END
